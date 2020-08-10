@@ -7,6 +7,7 @@
 ## About Me
 
 #### 🏳‍🌈 I'm a 20y/o trans woman living in Colorado, USA
+- My pronouns are she/her 
 
 #### 💻 I have 12 years of development experience with:
 - Web technologies (HTML/CSS/Javascript)

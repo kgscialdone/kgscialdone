@@ -1,6 +1,6 @@
 # Hi! I'm Katrina!
 
-[<img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" width=24>](https://twitter.com/katrinakitten)
+[<img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" width=24>](https://twitter.com/katrinakitten__)
 [<img src="https://freeiconshop.com/wp-content/uploads/edd/tumblr-flat.png" width=24>](https://katrinakitten.tumblr.com)
 [<img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Reddit-Icon.png" width=24>](https://reddit.com/u/katrina-mtf)
 

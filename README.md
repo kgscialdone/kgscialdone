@@ -22,9 +22,10 @@
 - [dice](https://github.com/KatrinaKitten/dice) - dparse's predecessor, a pure Kotlin library for dice notation parsing
 
 #### 👩‍💻 I love hacking on various programming language prototypes...
-- [Subterra](https://esolangs.org/wiki/Subterra) - A small Turing tarpit esolang with full functions and a Python FFI
+- [Subterra](https://github.com/KatrinaKitten/Subterra) - A small Turing tarpit esolang with full functions and a Python FFI
 - [Sherwood](https://github.com/KatrinaKitten/sherwood) - An minimalistic bytecode VM written in Crystal
 
 #### 🔧 ... and tiny utility libraries and frameworks!
 - [gruetest](https://github.com/KatrinaKitten/gruetest) - A minimalistic Typescript testing framework
 - [Tiny ECS](https://www.lexaloffle.com/bbs/?tid=39021) - An entity-component-system framework for Pico-8
+- [quietly](https://github.com/KatrinaKitten/quietly) - A simple Ruby library for output redirection

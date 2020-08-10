@@ -17,9 +17,9 @@
   - [Various games on the Pico-8 fantasy console](https://www.lexaloffle.com/bbs/?uid=45947)
 
 #### 📁 I specialize in parsing and custom data/file formats
-- [Haven JSON](https://github.com/KatrinaKitten/haven-json) - A lightweight, typesafe, pure Kotlin JSON parser
 - [dparse](https://github.com/RoleSave/dparse) - A NodeJS/Typescript library for parsing and executing dice notation
 - [dice](https://github.com/KatrinaKitten/dice) - dparse's predecessor, a pure Kotlin library for dice notation parsing
+- [Haven JSON](https://github.com/KatrinaKitten/haven-json) - A lightweight, typesafe, pure Kotlin JSON parser
 
 #### 👩‍💻 I love hacking on various programming language prototypes...
 - [Subterra](https://github.com/KatrinaKitten/Subterra) - A small Turing tarpit esolang with full functions and a Python FFI

@@ -1,15 +1,12 @@
 # Hi! I'm Katrina!
 
-[<img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" width=24>](https://twitter.com/katrinakitten__)
-[<img src="https://freeiconshop.com/wp-content/uploads/edd/tumblr-flat.png" width=24>](https://katrinakitten.tumblr.com)
-[<img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Reddit-Icon.png" width=24>](https://reddit.com/u/katrina-mtf)
+#### 🏳‍🌈 I'm a 21y/o trans woman, she/her, living in Colorado, USA
+- You can find my social media on my [Linktree 🌳](https://linktr.ee/KatrinaKitten)
 
-## About Me
+#### 🎲 I run a Dungeons and Dragons blog / aggregator called [Dungeon Daily](https://dungeondaily.com)!
+- I link to articles I found useful and want to share, write my own articles from time to time, and curate an extensive list of online tools for playing the game!
 
-#### 🏳‍🌈 I'm a 20y/o trans woman living in Colorado, USA
-- My pronouns are she/her 💬💅
-
-#### 💻 I have 12 years of development experience with:
+#### 💻 I have 13 years of development experience with:
 - Web technologies (HTML/CSS/Javascript)
 - JVM development (Java, Kotlin, Scala)
 - Almost every programming language I can get my hands on
@@ -17,16 +14,16 @@
   - [*Out of Control*](https://katrinakitten.itch.io/out-of-control) - Entry into GMTK Game Jam 2020
   - [Various games on the Pico-8 fantasy console](https://www.lexaloffle.com/bbs/?uid=45947)
 
-#### 📁 I specialize in parsing and custom data/file formats
-- [dparse](https://github.com/RoleSave/dparse) - A NodeJS/Typescript library for parsing and executing dice notation
-- [dice](https://github.com/KatrinaKitten/dice) - dparse's predecessor, a pure Kotlin library for dice notation parsing
-- [Haven JSON](https://github.com/KatrinaKitten/haven-json) - A lightweight, typesafe, pure Kotlin JSON parser
-
-#### 👩‍💻 I love hacking on various programming language prototypes...
-- [Subterra](https://github.com/KatrinaKitten/Subterra) - A small Turing tarpit esolang with full functions and a Python FFI
-- [Sherwood](https://github.com/KatrinaKitten/sherwood) - An minimalistic bytecode VM written in Crystal
-
-#### 🔧 ... and tiny utility libraries and frameworks!
-- [gruetest](https://github.com/KatrinaKitten/gruetest) - A minimalistic Typescript testing framework
-- [Tiny ECS](https://www.lexaloffle.com/bbs/?tid=39021) - An entity-component-system framework for Pico-8
-- [quietly](https://github.com/KatrinaKitten/quietly) - A simple Ruby library for output redirection
+#### 🎨 My specialties include:
+- Parsing and custom data/file formats
+- State machine logic
+- Front- and back-end web development
+- Creating development utilities like...
+  - Lightweight zero-dependency libraries
+  - Testing frameworks
+  - API wrapper libraries
+  - Hand-tailored web scrapers
+  
+#### ☎ Want to hire me? I'm available!
+- Send me a message on any of my social media, or...
+- Email me at kat@swordglowsblue.com

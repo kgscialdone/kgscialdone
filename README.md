@@ -3,14 +3,12 @@
 #### 🏳‍🌈 I'm a 21y/o trans woman, she/her, living in Colorado, USA
 - You can find my social media on my [Linktree 🌳](https://linktr.ee/KatrinaKitten)
 
-#### 🎲 I run a Dungeons and Dragons blog / aggregator called [Dungeon Daily](https://dungeondaily.com)!
-- I link to articles I found useful and want to share, write my own articles from time to time, and curate an extensive list of online tools for playing the game!
-
 #### 💻 I have 13 years of development experience with:
 - Web technologies (HTML/CSS/Javascript)
 - JVM development (Java, Kotlin, Scala)
 - Almost every programming language I can get my hands on
 - Hobby game development
+  - [*One Minute Max*](https://serenaagh.itch.io/one-minute-max) - Entry into the SNHU Game Jam 2021, part of the 2021 Queer Games Bundle
   - [*Out of Control*](https://katrinakitten.itch.io/out-of-control) - Entry into GMTK Game Jam 2020
   - [Various games on the Pico-8 fantasy console](https://www.lexaloffle.com/bbs/?uid=45947)
 

@@ -1,9 +1,9 @@
 # Hi, I'm Katrina!
 
-#### 🏳‍🌈 I'm a 21y/o trans woman, she/her, living in Colorado, USA
+#### 🏳‍🌈 I'm a 22y/o trans woman, she/her, living in Colorado, USA
 - You can find my social media on my [Linktree 🌳](https://linktr.ee/KatrinaKitten)
 
-#### 💻 I have 13 years of development experience with:
+#### 💻 I have 14 years of development experience with:
 - Web technologies (HTML/CSS/Javascript)
 - JVM development (Java, Kotlin, Scala)
 - Almost every programming language I can get my hands on

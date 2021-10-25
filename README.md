@@ -7,7 +7,7 @@
 - Web technologies (HTML/CSS/Javascript)
 - JVM development (Java, Kotlin, Scala)
 - Almost every programming language I can get my hands on
-- Hobby game development
+- Game development
   - [*One Minute Max*](https://serenaagh.itch.io/one-minute-max) - Entry into the SNHU Game Jam 2021, part of the 2021 Queer Games Bundle
   - [*Out of Control*](https://katrinakitten.itch.io/out-of-control) - Entry into GMTK Game Jam 2020
   - [Various games on the Pico-8 fantasy console](https://www.lexaloffle.com/bbs/?uid=45947)

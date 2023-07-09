@@ -1,6 +1,6 @@
 # Hi, I'm Katrina!
 
-#### 🏳‍🌈 I'm a 23y/o trans woman, she/her, living in Colorado, USA
+#### 🏳‍🌈 I'm a 23y/o trans woman, she/her, living in Idaho, USA
 - You can find my social media on my [Linktree 🌳](https://linktr.ee/KatrinaKitten)
 
 #### 💻 I have 14 years of development experience with:

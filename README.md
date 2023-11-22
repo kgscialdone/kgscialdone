@@ -1,9 +1,8 @@
 # Hi, I'm Katrina!
 
 #### 🏳️‍⚧️ I'm a 24y/o trans woman, she/her, living in Idaho, USA
-- You can find my social media on my [Linktree 🌳](https://linktr.ee/KatrinaKitten)
 
-#### 💻 I have 14 years of development experience with:
+#### 💻 I have 7 years of development experience with:
 - Web technologies (HTML/CSS/Javascript)
 - JVM development (Java, Kotlin, Scala)
 - Almost every programming language I can get my hands on

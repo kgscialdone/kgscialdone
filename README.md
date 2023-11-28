@@ -24,3 +24,6 @@
 #### ☎ Want to hire me? I'm available!
 - Send me a message on any of my social media, or...
 - Email me at kat@swordglowsblue.com
+
+#### ☕ Like my work?
+- Drop me a tip on my [Ko-fi](https://ko-fi.com/kgscialdone)!

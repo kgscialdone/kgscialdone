@@ -12,9 +12,9 @@
   - [Various games on the Pico-8 fantasy console](https://www.lexaloffle.com/bbs/?uid=45947)
 
 #### 🎨 My specialties include:
+- Front- and back-end web development
 - Parsing and custom data/file formats
 - State machine logic
-- Front- and back-end web development
 - Creating development utilities like...
   - Lightweight zero-dependency libraries
   - Testing frameworks
@@ -22,8 +22,9 @@
   - Hand-tailored web scrapers
   
 #### ☎ Want to hire me? I'm available!
-- Send me a message on any of my social media, or...
-- Email me at kat@swordglowsblue.com
+- Email me at kat@swordglowsblue.com, or...
+- Message me on [LinkedIn](https://linkedin.com/in/kgscialdone)
 
 #### ☕ Like my work?
-- Drop me a tip on my [Ko-fi](https://ko-fi.com/kgscialdone)!
+- Drop me a tip on my [Ko-fi](https://ko-fi.com/kgscialdone), or...
+- Sponsor me through [Github Sponsors](https://github.com/sponsors/KatrinaKitten)

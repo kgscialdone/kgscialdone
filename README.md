@@ -27,4 +27,4 @@
 
 #### ☕ Like my work?
 - Drop me a tip on my [Ko-fi](https://ko-fi.com/kgscialdone), or...
-- Sponsor me through [Github Sponsors](https://github.com/sponsors/KatrinaKitten)
+- Sponsor me through [Github Sponsors](https://github.com/sponsors/kgscialdone)

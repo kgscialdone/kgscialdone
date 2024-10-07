@@ -22,7 +22,7 @@
   - Hand-tailored web scrapers
   
 #### ☎ Want to hire me? I'm available!
-- Email me at kat@swordglowsblue.com, or...
+- Email me at kgs@unmodernweb.com, or...
 - Message me on [LinkedIn](https://linkedin.com/in/kgscialdone)
 
 #### ☕ Like my work?

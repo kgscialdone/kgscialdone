@@ -1,6 +1,6 @@
 # Hi, I'm Katrina!
 
-#### 🏳️‍⚧️ I'm a 24y/o trans woman, she/her, living in Idaho, USA
+#### 🏳️‍⚧️ I'm a 25y/o trans woman, she/her, living in Idaho, USA
 
 #### 💻 I have 7 years of development experience with:
 - Web technologies (HTML/CSS/Javascript)
